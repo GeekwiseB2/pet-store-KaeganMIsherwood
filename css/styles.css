@@ -27,3 +27,23 @@
   text-align: center;
   font-weight: 500;
 }
+
+.thumbnail{
+  background-color: #edf1f4;
+}
+
+.row{
+  background-color: aliceblue}
+.row2{
+    background-color: black}
+.body{
+  background-color: lawngreen;
+}
+
+.services{
+  text-align: center;
+}
+
+footer{
+  background-color: #231f20;
+}
